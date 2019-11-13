@@ -1,5 +1,7 @@
-tpsee topsee seetong firmware pack/unpack DES
+tpsee topsee seetong firmware packer/unpacker
 =============================================
+
+Please do NOT flash repacked firmwares. Even if you know how to unbrick your camera which includes soldering. This is just for learning purpose. You have been warned!
 
 Scripts for packing/unpacking TOPSEE DES-encrypted tpsee seetong camera firmwares
 
@@ -28,4 +30,4 @@ usage:
 
 Use at you onw risk. Bear in mind the firmware will be encrypted by DES by default.
 
-That may be incompatible with firmwares older v2.5.1.5
+Please do NOT flash repacked firmwares. Even if you know how to unbrick your camera which includes soldering. This is just for learning purpose. You have been warned!
