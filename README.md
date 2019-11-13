@@ -1,5 +1,5 @@
-tpsee pack/unpack DES
-=====================
+tpsee topsee seetong firmware pack/unpack DES
+=============================================
 
 Scripts for packing/unpacking TOPSEE DES-encrypted tpsee seetong camera firmwares
 
