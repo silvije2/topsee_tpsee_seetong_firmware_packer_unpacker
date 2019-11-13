@@ -28,6 +28,6 @@ usage:
 	pack.sh firmware.bin.unpack new_firmware.bin
 	
 
-Use at you onw risk. Bear in mind the firmware will be encrypted by DES by default.
+Use at you own risk. Bear in mind the firmware will be encrypted by DES by default.
 
 Please do NOT flash repacked firmwares. Even if you know how to unbrick your camera which includes soldering. This is just for learning purpose. You have been warned!
