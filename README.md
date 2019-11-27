@@ -1,4 +1,4 @@
-# Tpsee Topsee Seetong DaysVision Tianshitong 天视通 firmware packer/unpacker
+# Tpsee Topsee Seetong SkyVision Tianshitong 天视通 firmware packer/unpacker
 
 Please do NOT flash repacked firmwares. Even if you know how to unbrick your camera which includes soldering. This is just for learning purpose. You have been warned!
 
