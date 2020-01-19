@@ -2,6 +2,8 @@
 
 Please do NOT flash repacked firmwares. Even if you know how to unbrick your camera which includes soldering. This is just for learning purpose. You have been warned!
 
+***WARNING*** If using Topsee/Seetong PC client or mobile apps, keep in mind that communication is unencrypted, and your usernames, passwords and e-mail address are visible on the network
+
 Scripts for packing/unpacking TOPSEE DES-encrypted tpsee seetong camera firmwares
 
 Based on datacompboy's tpsee_hack (TCP fix and *.sh) and qoq's (DES-decrypter/unpacker/packer) scripts
