@@ -1,5 +1,12 @@
 # Tpsee Topsee Seetong SkyVision Tianshitong 天视通 firmware packer/unpacker
 
+***WARNING***
+Please do NOT expose any IP Camera on public IP address! Most of them are vulnerable to unauthorized public access through onvif!
+To confirm this use ONVIF Device Manager
+
+	https://sourceforge.net/projects/onvifdm/
+
+
 Please do NOT flash repacked firmwares. Even if you know how to unbrick your camera which includes soldering. This is just for learning purpose. You have been warned!
 
 ***WARNING*** If using Topsee/Seetong PC client or mobile apps, keep in mind that communication is unencrypted, and your usernames, passwords and e-mail address are visible on the network
